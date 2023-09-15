@@ -1,0 +1,99 @@
+#company{
+    color: #000;
+leading-trim: both;
+text-edge: cap;
+font-family: Aristotelica Display Trial;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.list-unstyled a{
+    color: rgba(0, 0, 0, 0.50);
+leading-trim: both;
+text-edge: cap;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 17.446px; /* 109.039% */
+}
+ul.list-unstyled a {
+    text-decoration: none;
+  }
+.footer-copyright{
+    display: flex;
+width: 1440px;
+height: 65px;
+padding: 0px 504px 0px 505px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;background: #ECECEC;
+
+}  
+.footer-copyright a{
+    text-decoration: none;
+    color: #845DC2;
+leading-trim: both;
+text-edge: cap;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 17.446px;
+}
+  
+.vector{
+    width: 16px;
+height: 18.551px;
+flex-shrink: 0;
+}
+.vector p{
+    color: rgba(0, 0, 0, 0.50);
+leading-trim: both;
+text-edge: cap;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17.446px; /* 124.616% */
+}
+.phone{
+    width: 16px;
+height: 10px;
+flex-shrink: 0;
+}
+.phone p{
+    color: rgba(0, 0, 0, 0.50);
+leading-trim: both;
+text-edge: cap;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17.446px; /* 124.616% */
+}
+.mail{
+    width: 16px;
+height: 13.6px;
+flex-shrink: 0;
+}
+.mail p{
+    color: rgba(0, 0, 0, 0.50);
+leading-trim: both;
+text-edge: cap;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17.446px; /* 124.616% */
+}
+  
+.bachay{
+    width: 129px;
+    height: 41.686px;
+    padding-top: 10px   ;
+}
+  
+  
